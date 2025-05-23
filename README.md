@@ -1,16 +1,14 @@
-## Hi there 👋
+# OLA, EU SOU O EDUARDO 👏
 
-<!--
-**EduRamos09/Eduramos09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-Estudante do 1° ano B do Ensino Médio
+-colegio Professores Edvaldo e Maria janete carneiro
+-Turvo - PR
 
-Here are some ideas to get you started:
+## SOBRE Min
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-exelente aluno
+-aprendendo HTML, CSS E JAVASCRIPT 
+-obejetivo: me tornar um bom aluno
+-hobbies:andar de carro 
+
+![](https://media1.tenor.com/m/3bGEnnric_oAAAAd/pokemon-pikachu.gif).
